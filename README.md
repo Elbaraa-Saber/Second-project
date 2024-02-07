@@ -1,2 +1,2 @@
 # Second-project
-This Project is Second project i did by HTML &amp; CSS
+I used just Html And Css in this project 
